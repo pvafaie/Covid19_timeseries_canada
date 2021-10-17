@@ -3,7 +3,8 @@ In this repository, I have created a model for predicting the number of cases of
 
 Below is a corrolation study of Google mobility in the Quebec province with number of cases.
 
-![Uploading image.png…]()
+
+<img width="596" alt="Screen Shot 2021-10-17 at 3 46 24 PM" src="https://user-images.githubusercontent.com/56241887/137642681-a030e57c-be2c-457e-bb93-d9b0acbcbbbf.png">
 
 
 The aim of this study is to see if we can improve the covid-19 forecsting by using google mobility. The results can be seen in the jupyter notebook. Below is the forecasting for Ontario between the months of June and september 2020, right before the second wave. 
