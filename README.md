@@ -1,1 +1,2 @@
 # Covid19_timeseries_canada
+In this repository, I have created a model for predicting the number of cases of covid 19 in provinces of Canada. The model used for this study is LSTM, which can be found in the LSTM file. The time-series is covid cases, as well as google mobility data for different provinces in canada. The aim of this study is to see if we can improve the covid-19 forecsting by using google mobility. The results can be seen in the jupyter notebook. Below is the forecasting for Ontario between the months of June and september 2020, right before the second wave. 
